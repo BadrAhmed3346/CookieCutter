@@ -30,6 +30,7 @@
   "cloud_provider": [
     "AWS",
     "GCP",
+    "nginx",
     "None"
   ],
   "mail_service": [
